@@ -1,6 +1,8 @@
 # Linkedin-Job-Scraper
 
+**[Live Demo](https://drive.google.com/file/d/1MkwLnk8H_q0PzNJ9Ruruzu1Oq7YuX7ii/view?usp=drive_link)**
 
+---
 A Python-based automation tool that scrapes **LinkedIn job listings** based on keywords, location, and filters, and saves them in a structured format for easy analysis.  
 Built using **Selenium**, **BeautifulSoup**, and **Pandas**, it helps job seekers analyze trends, identify hiring companies, and collect data for ATS optimization.
 

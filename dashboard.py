@@ -1,8 +1,8 @@
 import pandas as pd
 import streamlit as st
-from scraper import scrape_linkedin   # ✅ Only LinkedIn now
+from scraper import scrape_linkedin   
 
-# ---- Theme ----
+
 PRIMARY = "#415E72"
 BG = "#F3E2D4"
 SECONDARY = "#C5B0CD"
@@ -36,7 +36,7 @@ with col2:
 with col3:
     pages = st.number_input("Pages to Scrape", min_value=1, max_value=5, value=1)
 
-run = st.button("🔎 Scrape Jobs")
+run = st.button(" Scrape Jobs")
 
 jobs_df = None
 if run:

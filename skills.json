@@ -1,0 +1,69 @@
+{
+  "programming_languages": [
+    "java",
+    "python",
+    "javascript",
+    "typescript",
+    "c++",
+    "c#",
+    "go",
+    "ruby"
+  ],
+  "frameworks": [
+    "spring",
+    "spring boot",
+    "hibernate",
+    "react",
+    "angular",
+    "node.js",
+    "express",
+    "django",
+    "flask",
+    "fastapi"
+  ],
+  "cloud_devops": [
+    "aws",
+    "azure",
+    "gcp",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "ci/cd",
+    "terraform",
+    "ansible"
+  ],
+  "databases": [
+    "mysql",
+    "postgresql",
+    "mongodb",
+    "oracle",
+    "redis",
+    "dynamodb"
+  ],
+  "backend_arch": [
+    "rest",
+    "restful",
+    "graphql",
+    "microservices",
+    "event-driven",
+    "kafka",
+    "rabbitmq"
+  ],
+  "testing": [
+    "junit",
+    "mockito",
+    "selenium",
+    "cypress",
+    "jest",
+    "pytest"
+  ],
+  "data_other": [
+    "sql",
+    "nosql",
+    "oop",
+    "design patterns",
+    "data structures",
+    "algorithms",
+    "system design"
+  ]
+}
